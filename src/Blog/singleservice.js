@@ -30,12 +30,9 @@ document.addEventListener("DOMContentLoaded", function () {
         />
         <h1 class="mt-6">${blogPost.title}</h1>
         <p class="mt-6">
-          We are looking for a personal financial planning pro Certified
-          Financial Planner preferred)<br />
-          who will lead our client advising efforts. You will be a fiduciary
-          who works
+        ${blogPost.description}
         </p>
-        <a class="btn btn-primary mt-8 px-10" href="#">Integrate Webflow</a>
+        <a class="btn btn-primary mt-8 px-10" href="#">Start ${blogPost.title}</a>
       </div>
       <div class="my-12 border-y border-border py-3">
         <ul class="tab-nav filter-list justify-center border-b-0" data-tab-nav>
