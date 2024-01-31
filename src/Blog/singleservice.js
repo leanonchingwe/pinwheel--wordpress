@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     // Function to display a single blog post
     function displayBlogPost(blogPost) {
-        const postContainer = document.querySelector(".row"); // Change this selector as needed
+        const postContainer = document.querySelector(".single"); // Change this selector as needed
 
         // Create a card for the blog post
         const card = document.createElement("div");
@@ -38,21 +38,21 @@ document.addEventListener("DOMContentLoaded", function () {
         <ul class="tab-nav filter-list justify-center border-b-0" data-tab-nav>
           <li>
             <a class="filter-btn active btn btn-sm" data-tab="0" href="#"
-              >About Setup</a
+              >About Service</a
             >
           </li>
           <li>
             <a
               class="filter-btn btn btn-sm inline-block border border-[#A9A9A9] text-dark" data-tab="1"
               href="#"
-              >How to setup</a
+              >Benefits</a
             >
           </li>
           <li>
             <a
               class="filter-btn btn btn-sm inline-block border border-[#A9A9A9] text-dark" data-tab="2"
               href="#"
-              >Support</a
+              >How to start?</a
             >
           </li>
         </ul>
