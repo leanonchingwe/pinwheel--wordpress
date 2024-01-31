@@ -1,78 +1,88 @@
+[
+    {
+        "id": 1,
+        "image": "maxresdefault.jpg",
+        "title": "Introduction to African Financial Markets",
+        "author": "John Doe",
+        "date": "2023-09-10",
+        "content": "African financial markets are becoming increasingly important in the global economy. With a combined GDP of over $3 trillion and a population of over 1.3 billion people, Africa is a major economic force. The continent's financial markets are also growing rapidly, with average market capitalization increasing by over 20% per year in recent years.",
+        "content2"
+        "tags": ["JavaScript", "Programming", "Web Development"]
+    },
+    {
+        "id": 2,
+        "image": "_medium.jpeg",
+        "title": "Introduction to Responsive Web Design",
+        "author": "Jane Smith",
+        "date": "2023-09-15",
+        "content": "Responsive web design is an essential concept...",
+        "tags": ["Web Design", "CSS", "Responsive"]
+    },
+
 {
-    "webmeshWordPressDevelopmentPackage": {
-      "overview": "Unlock the full potential of your online presence with the Webmesh WordPress Development Package.",
-      "features": [
-        {
-          "id": 1,
-          "title": "Custom WordPress Development",
-          "description": [
-            "Tailored solutions that align with your brand identity and business goals.",
-            "Expert development of custom themes and plugins to enhance functionality."
-          ]
-        },
-        {
-          "id": 2,
-          "title": "Responsive Design",
-          "description": [
-            "Visually stunning and fully responsive websites ensuring optimal user experiences on all devices."
-          ]
-        },
-        {
-          "id": 3,
-          "title": "Content Creation and Copywriting",
-          "description": [
-            "Engaging and SEO-friendly content that captivates your audience and enhances your website's relevance."
-          ]
-        },
-        {
-          "id": 4,
-          "title": "Plugin Development",
-          "description": [
-            "Extend the capabilities of your website with custom plugins designed to meet your specific needs."
-          ]
-        },
-        {
-          "id": 5,
-          "title": "Ongoing Maintenance and Support",
-          "description": [
-            "Regular updates, security patches, and performance optimization to keep your website running smoothly.",
-            "24/7 troubleshooting and support to address any issues promptly."
-          ]
-        }
-      ],
-      "clientBenefits": [
-        {
-          "id": 1,
-          "title": "Unique and Tailored Solutions",
-          "description": "Your website is crafted to reflect your brand identity, ensuring a unique and memorable online presence."
-        },
-        {
-          "id": 2,
-          "title": "Enhanced User Experience",
-          "description": "Responsive design and intuitive functionality provide an exceptional experience for your website visitors."
-        },
-        {
-          "id": 3,
-          "title": "SEO-Optimized Content",
-          "description": "Content created with both users and search engines in mind, boosting your online visibility."
-        },
-        {
-          "id": 4,
-          "title": "Scalability and Flexibility",
-          "description": "A scalable foundation that grows with your business, allowing for easy updates and expansions."
-        },
-        {
-          "id": 5,
-          "title": "Peace of Mind with Ongoing Support",
-          "description": "Focus on your core business activities while we handle the technical aspects, ensuring your website is always up and running."
-        }
-      ],
-      "webmeshAdvantage": {
-        "experiencedTeam": "Our team of seasoned WordPress developers and content specialists brings a wealth of expertise to every project.",
-        "clientCentricApproach": "We work closely with you to understand your unique needs, ensuring the end product exceeds your expectations.",
-        "transparentCommunication": "Regular updates and clear communication throughout the development process, keeping you informed and involved."
-      },
-      "getStarted": "Transform your online presence with the Webmesh WordPress Development Package. Elevate your brand, engage your audience, and stay ahead of the competition. Contact us today to discuss your project and take the first step toward a dynamic and impactful WordPress website."
+        "id": 3,
+        "image": "_medium.jpeg",
+        "title": "Introduction to Responsive Web Design",
+        "author": "Jane Smith",
+        "date": "2023-09-15",
+        "content": "Responsive web design is an essential concept...",
+        "tags": ["Web Design", "CSS", "Responsive"]
+    },
+
+{
+        "id": 4,
+        "image": "_medium.jpeg",
+        "title": "Introduction to Responsive Web Design",
+        "author": "Jane Smith",
+        "date": "2023-09-15",
+        "content": "Responsive web design is an essential concept...",
+        "tags": ["Web Design", "CSS", "Responsive"]
+    },
+
+    {
+        "id": 5,
+        "image": "dealstrategymenge.jpg",
+        "title": "Creating a Blog with JSON Data",
+        "author": "Alice Johnson",
+        "date": "2023-09-20",
+        "content": "You can create a blog website that retrieves data from JSON files...",
+        "tags": ["Web Development", "JSON", "Blog"]
+    },
+    {
+        "id": 6,
+        "image": "_medium.jpeg",
+        "title": "Introduction to Responsive Web Design",
+        "author": "Jane Smith",
+        "date": "2023-09-15",
+        "content": "Responsive web design is an essential concept...",
+        "tags": ["Web Design", "CSS", "Responsive"]
+    },
+    {
+        "id": 7,
+        "image": "_medium.jpeg",
+        "title": "Introduction to Responsive Web Design",
+        "author": "Jane Smith",
+        "date": "2023-09-15",
+        "content": "Responsive web design is an essential concept...",
+        "tags": ["Web Design", "CSS", "Responsive"]
+    },
+    {
+        "id": 8,
+        "image": "_medium.jpeg",
+        "title": "Introduction to Responsive Web Design",
+        "author": "Jane Smith",
+        "date": "2023-09-15",
+        "content": "Responsive web design is an essential concept...",
+        "tags": ["Web Design", "CSS", "Responsive"]
+    },
+    {
+        "id": 9,
+        "image": "_medium.jpeg",
+        "title": "Introduction to Responsive Web Design",
+        "author": "Jane Smith",
+        "date": "2023-09-15",
+        "content": "Responsive web design is an essential concept...",
+        "tags": ["Web Design", "CSS", "Responsive"]
     }
-  }
+]
   
