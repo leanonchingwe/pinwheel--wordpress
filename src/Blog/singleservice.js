@@ -197,14 +197,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-            <div class="card mb-4">
-                <img src="assets/images/${blogPost.image}" class="card-img-top" alt="Blog Image">
-                <div class="card-body">
-                    <h5 class="card-title">${blogPost.title}</h5>
-                    <p class="card-text">${blogPost.content.substring(0, 100)}...</p>
-                    <a href="single.html?id=${blogPost.id}" class="btn btn-primary">Read More</a>
-                </div>
-            </div>
+            
         `;
 
         postContainer.appendChild(card);
