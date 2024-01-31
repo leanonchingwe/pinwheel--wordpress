@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Function to fetch and display all blog posts
     function fetchAllBlogPosts() {
-        fetch("data/blog-posts/allpost.json") // Updated file path
+        fetch("src/data/services/wordpress.json") // Updated file path
             .then(response => response.json())
             .then(data => {
                  // Process and display all blog posts
