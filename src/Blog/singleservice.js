@@ -18,9 +18,9 @@ document.addEventListener("DOMContentLoaded", function () {
         const postContainer = document.querySelector(".single"); // Change this selector as needed
 
         // Create a card for the blog post
-        const card = document.createElement("div");
-        card.classList.add("integration-single-container");
-        card.innerHTML = `
+        const container = document.createElement("div");
+        container.classList.add("integration-single-container");
+        container.innerHTML = `
 
         <div class="px-4 text-center">
         <img
