@@ -200,7 +200,7 @@ document.addEventListener("DOMContentLoaded", function () {
             
         `;
 
-        postContainer.appendChild(card);
+        postContainer.appendChild(container);
     }
 
     // Fetch and display all blog posts
