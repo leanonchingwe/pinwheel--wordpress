@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Create a card for the blog post
         const container = document.createElement("div");
-        container.classList.add("integration-single-container");
+        container.classList.add("lg:col-10");
         container.innerHTML = `
 
         <div class="px-4 text-center">
