@@ -1,67 +1,10 @@
-{
-    "webmeshWordPressDevelopmentPackage": {
-      "overview": "Unlock the full potential of your online presence with the Webmesh WordPress Development Package.",
-      "features": [
-        {
-          "title": "Custom WordPress Development",
-          "description": [
-            "Tailored solutions aligned with your brand and business goals.",
-            "Expert development of custom themes and plugins."
-          ]
-        },
-        {
-          "title": "Responsive Design",
-          "description": [
-            "Visually stunning and fully responsive websites for optimal user experiences."
-          ]
-        },
-        {
-          "title": "Content Creation and Copywriting",
-          "description": [
-            "Engaging, SEO-friendly content that captivates your audience."
-          ]
-        },
-        {
-          "title": "Plugin Development",
-          "description": [
-            "Extend website capabilities with custom plugins designed for your needs."
-          ]
-        },
-        {
-          "title": "Ongoing Maintenance and Support",
-          "description": [
-            "Regular updates, security patches, and 24/7 troubleshooting support."
-          ]
-        }
-      ],
-      "clientBenefits": [
-        {
-          "title": "Unique and Tailored Solutions",
-          "description": "Crafting a website reflecting your brand identity for a memorable online presence."
-        },
-        {
-          "title": "Enhanced User Experience",
-          "description": "Responsive design and intuitive functionality for an exceptional visitor experience."
-        },
-        {
-          "title": "SEO-Optimized Content",
-          "description": "Content creation with a focus on users and search engines to boost online visibility."
-        },
-        {
-          "title": "Scalability and Flexibility",
-          "description": "A scalable foundation allowing easy updates and expansions as your business grows."
-        },
-        {
-          "title": "Peace of Mind with Ongoing Support",
-          "description": "Focus on your core business while we handle technical aspects, ensuring a reliable website."
-        }
-      ],
-      "webmeshAdvantage": {
-        "experiencedTeam": "Our team of seasoned WordPress developers and content specialists brings expertise to every project.",
-        "clientCentricApproach": "Close collaboration to understand your needs, ensuring the end product exceeds expectations.",
-        "transparentCommunication": "Regular updates and clear communication throughout the development process to keep you informed."
-      },
-      "getStarted": "Transform your online presence with the Webmesh WordPress Development Package. Elevate your brand, engage your audience, and stay ahead of the competition. Contact us today to discuss your project and take the first step toward a dynamic and impactful WordPress website."
-    }
+[
+  {
+    "title": "First Blog Post",
+    "content": "This is the content of the first blog post."
+  },
+  {
+    "title": "Second Blog Post",
+    "content": "This is the content of the second blog post."
   }
-  
+]
